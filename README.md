@@ -1,21 +1,51 @@
-# Hi, I'm Prashant Sharma 👋
+# Hey there, I'm Prashant Sharma! 👋
 
-I'm a passionate **Computer Science Engineering** student who loves crafting solutions with **Java** and **Spring Boot**.  
-I’ve built projects ranging from core Java apps to full-fledged Spring Boot applications — always eager to learn and grow.  
+I'm an enthusiastic **Computer Science Engineering** student with a strong passion for backend development, especially using **Java** and **Spring Boot**. Over the course of my learning journey, I’ve built multiple projects ranging from **core Java applications** to scalable **Spring Boot web applications** — turning ideas into working software.
 
-🚀 Currently exploring new opportunities to apply my skills and contribute to exciting tech ventures.
+---
 
-Let’s connect and build something amazing!  
+## About Me
+
+- 🔭 Currently focused on mastering Java ecosystem and building real-world projects  
+- 💻 Skilled in backend development, RESTful APIs, database management, and security  
+- 🎯 Motivated by problem-solving and writing clean, maintainable code  
+- 🌱 Always learning — from design patterns and microservices to cloud deployment  
+- 📚 Exploring modern software engineering best practices and tools  
+
+---
+
+## Projects
+
+- **Core Java Projects:** Developed console and GUI-based applications that sharpened my fundamentals  
+- **Spring Boot Projects:** Created fully functional web apps featuring authentication, CRUD operations, email verification, pagination, and role-based access control  
+
+---
+
+## What I'm Looking For
+
+I’m excited to take my skills to the next level through internships or entry-level roles in software development, where I can contribute, collaborate, and continue growing in a challenging environment. Open to opportunities related to Java, backend development, and full-stack roles.
+
+---
+
+## Skills & Technologies
+
+- **Languages:** Java, SQL  
+- **Frameworks:** Spring Boot, Hibernate  
+- **Web:** Thymeleaf, Bootstrap  
+- **Tools:** Git, Maven, Postman  
+- **Database:** MySQL, H2  
+- **Concepts:** REST APIs, Authentication & Authorization, Pagination, Email Integration  
+
+---
+
+## Let’s Connect!
+
+Feel free to explore my repositories and get in touch.  
+I’m always open to discussing ideas, collaboration, or just talking code!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantknp8)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/prashantknp8)
 
 ---
 
-### Skills & Tools
-- Java | Spring Boot | REST APIs  
-- Core Java Projects & Web Development  
-- Database Management | Git | Agile Methodologies  
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
+> *“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler”*
